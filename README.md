@@ -18,3 +18,7 @@ This branch is the modified version that uses no SEH, but still does safe operat
 
 - The wrapper is designed to be loaded in a x64 process and only implements the syscalls that pertain to my workflow.
 - Only tested on Windows 10 1903, 1809, and 1803.
+
+## not updated
+
+we are going to update this soon
