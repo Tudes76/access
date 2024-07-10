@@ -24,3 +24,5 @@ This branch is the modified version that uses no SEH, but still does safe operat
 we are going to update this soon
 
 ### where a you i am here to me
+
+not today, patch note fn with go alone
