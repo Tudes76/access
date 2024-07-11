@@ -26,3 +26,5 @@ we are going to update this soon
 ### where a you i am here to me
 
 not today, patch note fn with go alone
+
+## sorry i came back after so long
