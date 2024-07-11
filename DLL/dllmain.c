@@ -1,5 +1,5 @@
 #include "stdafx.h"
-
+// remake of all fonctions nt
 struct {
 	PVOID Src[0x100];
 	PVOID Original[0x100];
