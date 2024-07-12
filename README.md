@@ -14,7 +14,8 @@ This branch is the modified version that uses no SEH, but still does safe operat
 
 ![Demo with Fortnite and Cheat Engine](demo.gif)
 
-## Note
+## Note the vacation are note preparet
+
 
 - The wrapper is designed to be loaded in a x64 process and only implements the syscalls that pertain to my workflow.
 - Only tested on Windows 10 1903, 1809, and 1803.
