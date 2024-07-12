@@ -28,3 +28,5 @@ we are going to update this soon
 not today, patch note fn with go alone
 
 ## sorry i came back after so long
+
+i am going to find a way to make some noie gate for this app
