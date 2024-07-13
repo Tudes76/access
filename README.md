@@ -33,3 +33,5 @@ not today, patch note fn with go alone
 i am going to find a way to make some noie gate for this app
 
 ## number 1 verity is the work
+
+ok lets go today i need some people for help
